@@ -44,10 +44,10 @@ function add(a, b) {
 <details>
     <summary><h2>Respuestas</h2></summary>
     <ol>
-        <li>2. Se imprime [6,8,10] en la consola</li>
-        <li>1. La función es pura, debido a que no módifica al estado global</li>
-        <li>3. Una función que siempre devuelve el mismo resultado dado el mismo input</li>
-        <li>2. Una forma de detener la ejecución del código en un punto específico para poder depurarlo</li>
-        <li>2. Una forma de manejar errores en código sincrónico</li>
+        <li><i>2. Se imprime [6,8,10] en la consola</i></li>
+        <li><i>1. La función es pura, debido a que no módifica al estado global</i></li>
+        <li><i>3. Una función que siempre devuelve el mismo resultado dado el mismo input</i></li>
+        <li><i>2. Una forma de detener la ejecución del código en un punto específico para poder depurarlo</i></li>
+        <li><i>2. Una forma de manejar errores en código sincrónico</i></li>
     </ol>
 </details>
