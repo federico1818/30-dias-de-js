@@ -42,12 +42,12 @@ function add(a, b) {
 3. Una forma de mostrar la consola en pantalla
 
 <details>
-    <summary>Respuestas</summary>
-    <p>
-        1. 2
-        2. 1
-        3. 3
-        4. 2
-        5. 2
-    </p>
+    <summary><h2>Respuestas</h2></summary>
+    <ol>
+        <li>1. 2</li>
+        <li>2. 1</li>
+        <li>3. 3</li>
+        <li>4. 2</li>
+        <li>5. 2</li>
+    </ol>
 </details>
